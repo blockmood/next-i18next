@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Helvetica';
+  src: url('https://img.dsers.com/font/UB-Helvetica.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: url('https://img.dsers.com/font/OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: url('https://img.dsers.com/font/OpenSans-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBold';
+  src: url('https://img.dsers.com/font/OpenSans-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'HelveticaNeue-Bold';
+  src: url('https://img.dsers.com/font/HelveticaNeue-Bold.otf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+  }
+  .center-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+}

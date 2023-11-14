@@ -1,0 +1,1 @@
+export { SecondaryBanner } from './Pc';

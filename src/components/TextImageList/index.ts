@@ -1,0 +1,1 @@
+export { TextImageList } from './Pc';
